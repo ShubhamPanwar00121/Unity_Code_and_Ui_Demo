@@ -1,0 +1,47 @@
+{
+  "RewardsData": [
+    {
+      "Day": 1,
+      "Rewards": [
+        { "RewardName": "ball", "Quantity": 1, "iconId": "ball_1" }
+      ]
+    },
+    {
+      "Day": 2,
+      "Rewards": [
+        { "RewardName": "coin", "Quantity": 100, "iconId": "coin_1" }
+      ]
+    },
+    {
+      "Day": 3,
+      "Rewards": [
+        { "RewardName": "bomb", "Quantity": 2, "iconId": "bomb" }
+      ]
+    },
+    {
+      "Day": 4,
+      "Rewards": [
+        { "RewardName": "coin", "Quantity": 200, "iconId": "coin_2" }
+      ]
+    },
+    {
+      "Day": 5,
+      "Rewards": [
+        { "RewardName": "ball", "Quantity": 3, "iconId": "ball_1" }
+      ]
+    },
+    {
+      "Day": 6,
+      "Rewards": [
+        { "RewardName": "coin", "Quantity": 300, "iconId": "coin_2" }
+      ]
+    },
+    {
+      "Day": 7,
+      "Rewards": [
+        { "RewardName": "ball", "Quantity": 2, "iconId": "ball_1" },
+        { "RewardName": "coin", "Quantity": 500, "iconId": "coin_2" }
+      ]
+    }
+  ]
+}
